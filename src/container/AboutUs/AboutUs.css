@@ -36,6 +36,11 @@
     margin: 2rem 4rem;
 }
 
+.app__aboutus-content_about img {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
 .app__aboutus-content_history {
     flex: 1;
     display: flex;

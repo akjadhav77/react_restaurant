@@ -2,56 +2,56 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Cabernet Shiraz By Sula',
+    price: '₹895',
+    tags: 'IN | 750ml',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Sette by Fratelli Wines',
+    price: '₹1700',
+    tags: 'IN | 750ml',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'La Reserve by Grover Zampa',
+    price: '₹1050',
+    tags: 'IN | 750 ml',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Reserve Tempranillo By Charosa',
+    price: '₹1500',
+    tags: 'IN | 750 ml',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'York Arros',
+    price: '₹1150',
+    tags: 'IN | 750 ml',
   },
 ];
 
 const cocktails = [
   {
     title: 'Aperol Sprtiz',
-    price: '$20',
+    price: '₹1200',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
   {
     title: "Dark 'N' Stormy",
-    price: '$16',
+    price: '₹850',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
     title: 'Daiquiri',
-    price: '$10',
+    price: '₹650',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {
     title: 'Old Fashioned',
-    price: '$31',
+    price: '₹2400',
     tags: 'Bourbon | Brown sugar | Angostura Bitters',
   },
   {
     title: 'Negroni',
-    price: '$26',
+    price: '₹1500',
     tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
   },
 ];
