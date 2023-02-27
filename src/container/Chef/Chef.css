@@ -13,7 +13,7 @@
 }
 
 .app__wrapper_img-reverse img {
-    margin-left: 3.5rem;
+    margin-left: 3rem;
 }
 
 .app__chef-content_quote img {
@@ -55,11 +55,20 @@
         align-items: center!important;
         justify-content: center!important;
     }    
+
+    .app__wrapper_img-reverse img {
+        margin-left: 0.1rem;
+    }
+
 }
 
 @media screen and (max-width: 450px) {
     .app__chef-sign img {
         width: 80%;
+    }
+
+    .app__wrapper_img-reverse img {
+        margin-left: 0.1rem;
     }
 
 
