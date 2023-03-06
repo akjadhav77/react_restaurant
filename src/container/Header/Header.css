@@ -14,3 +14,10 @@
 .app__wrapper_img img {
     width: 68%!important;
 }
+
+@media screen and (max-width: 990px) {
+    
+    .app__wrapper_info h1 {
+        font-size: 48px;
+    }
+}
